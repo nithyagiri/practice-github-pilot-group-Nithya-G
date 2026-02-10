@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassManager/ClassManager.iml" filepath="$PROJECT_DIR$/ClassManager/ClassManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/practice-github-pilot-group-Nithya-G.iml" filepath="$PROJECT_DIR$/.idea/practice-github-pilot-group-Nithya-G.iml" />
+    </modules>
+  </component>
+</project>
